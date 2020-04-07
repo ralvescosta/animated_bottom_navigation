@@ -14,4 +14,8 @@ npx react-native run-android
 npx react-native start
 ```
 
+<div align="center">
+
 ![gif](/assets/gif.gif)
+
+</div>

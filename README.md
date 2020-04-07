@@ -14,4 +14,4 @@ npx react-native run-android
 npx react-native start
 ```
 
-![gif](/assets/gif.mp4)
+![gif](/assets/gif.gif)

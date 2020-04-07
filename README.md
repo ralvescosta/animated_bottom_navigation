@@ -4,7 +4,7 @@ _Based on:_ <a href="https://www.youtube.com/watch?v=mGNvC4Ui7Dc&list=PLgGv-FSoH
 
 ## Get Started
 
-- After coloning this repo and start Android Emulator, run:
+- After cloning this repo and start Android Emulator, run:
 
 ```
 yarn

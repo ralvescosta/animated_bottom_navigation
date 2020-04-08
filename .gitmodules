@@ -1,0 +1,3 @@
+[submodule "src/modules/hdr_process_data_py"]
+	path = src/modules/hdr_process_data_py
+	url = https://github.com/ralvescosta/hdr_process_data_py.git
